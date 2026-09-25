@@ -26,3 +26,6 @@ ENV/
 Thumbs.db
 .env_info
 activate_env.sh
+
+# Simulation output
+*.vtu
